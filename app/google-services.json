@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "772624969011",
+    "project_id": "fastfoodmanagement-62af0",
+    "storage_bucket": "fastfoodmanagement-62af0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772624969011:android:a5c33f805e859d34322246",
+        "android_client_info": {
+          "package_name": "com.example.comidasrapidaspionono"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk-HV_LutdMWNW6_rDz4rQGDWNlUWtAk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772624969011:android:fa1b167defed832e322246",
+        "android_client_info": {
+          "package_name": "com.example.fastfoodmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk-HV_LutdMWNW6_rDz4rQGDWNlUWtAk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
